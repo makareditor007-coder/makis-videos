@@ -170,7 +170,7 @@ Edit like Iman Gadzhi in 5 minutes: build the clean, "expensive" animated money 
 🎯 WHAT THIS VIDEO IS
 You've seen this animation a thousand times: a clean white card pops onto the screen, a green line climbs, a glowing dot races to the top, and "$0" counts up to "$3,000". It's in Iman Gadzhi's videos, in Alex Hormozi's content, and in nearly every fintech app ad. It looks simple, and that simplicity is exactly what clients pay for.
 
-Most beginners think this look needs expensive software or a $200 plugin pack. It doesn't. In this tutorial I build the whole thing from scratch in Adobe After Effects using only built-in tools: shape layers, Trim Paths, masks, gradient fills, track mattes and a couple of expressions. In about 5 minutes you get a reusable, premium motion-graphics asset you can sell to clients as an upgrade.
+Most beginners think this look needs expensive software or a plugin pack. It doesn't. I build it from scratch in Adobe After Effects with only built-in tools: shape layers, Trim Paths, masks, gradient fills, track mattes and a couple of expressions. You end up with a reusable premium asset you can sell to clients.
 
 🧠 WHO IS IMAN GADZHI?
 Iman Gadzhi is a British entrepreneur and YouTuber. He started a social-media marketing agency (IAG Media) as a teenager and went on to build online education businesses such as Educate.io, teaching agency owners, freelancers and video editors how to make money online. His YouTube channel is one of the most-copied in the business/self-improvement space, and a big reason is how it's edited.
@@ -195,27 +195,11 @@ Iman is calm luxury and Hormozi is high energy, but they share one core thing: c
 • It boosts retention. Moving visuals that show what the speaker is saying keep viewers watching longer, which is the number your clients care about.
 • It makes your portfolio look expensive. One clean motion-graphics shot can set you apart from 100 editors who only do jump cuts and captions.
 
-🛠 WHAT YOU'LL LEARN
-• Designing a clean fintech-style card (rounded rectangle, typography, colors)
-• Animating a growing line with Trim Paths
-• Making a dot follow the line using the mask-path-to-position trick
-• Building the signature green gradient fill and animating it with a track matte linked to the dot
-• Number counters with expressions ($0 → $3,000, 0% → 95%)
-• Bounce-in with an expression and a hand-keyed squash & stretch bounce-out
-• Motion blur and sound design for the final polish
-(At 4:47 I use an easing plugin to save time, but you can do the same easing manually in the Graph Editor, as shown. No plugin is required.)
+(At 4:47 I use an easing plugin to save time, but you can do the same easing manually in the Graph Editor. No plugin is required.)
 
-📁 Don't want to build it yourself? Grab the full project file, the counter expression and the bounce script for FREE in my Telegram: [TELEGRAM LINK]
-
-🎬 Need an editor who can do this for your brand? → [SERVICES LINK]
-
-If this helped, like, subscribe, and comment which creator's editing style I should break down next.
-
-I'm Makar, and this is Makar Edits.
+If this helped, like, subscribe, and comment which creator's editing style I should break down next. I'm Makar, and this is Makar Edits.
 
 #aftereffects #imangadzhi #motiongraphics #videoediting #alexhormozi
-
-Keywords: edit like iman gadzhi, iman gadzhi editing style, iman gadzhi after effects tutorial, hormozi style editing, after effects chart animation, animated graph after effects, number counter expression, trim paths tutorial, fintech motion graphics, motion graphics without plugins
 ```
 
 **Tags (YouTube tags field):**

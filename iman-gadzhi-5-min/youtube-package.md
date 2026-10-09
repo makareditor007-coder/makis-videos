@@ -204,3 +204,28 @@ If this helped, like, subscribe, and comment which creator's editing style I sho
 
 **Tags (YouTube tags field):**
 `edit like iman gadzhi, iman gadzhi editing style, iman gadzhi after effects, iman gadzhi motion graphics, alex hormozi editing style, hormozi style editing, after effects tutorial, after effects chart animation, animated graph after effects, line graph animation, number counter after effects, trim paths after effects, after effects expressions, motion graphics tutorial, no plugins after effects, video editing tutorial, makar edits`
+
+---
+
+## PROMPT 1 v2 — rewritten from the real references (face photo, AE icon, graph PNG)
+
+```
+16:9 YouTube thumbnail, 1280x720, ultra-sharp, high contrast, premium dark motion-design look.
+
+References (each image has ONE job):
+Image 1 = my face. Use it ONLY for identity: keep my face exactly as in Image 1 — same eyes, nose, lips, jawline, skin, messy blonde fringe, black t-shirt and thin gold chain with a gold cross. Keep my real calm, confident, slightly serious expression from Image 1. Do NOT copy the room behind me.
+Image 2 = the After Effects icon. Copy it exactly: dark navy rounded square, lavender "Ae".
+Image 3 = my graph. Copy its exact shape: the neon lime-green line starts low on the left, makes one bump, dips, then rises to a bright green dot at the top right; soft green gradient fill under the line; a light-green rounded badge "+95%" just above the dot; the text "Monthly earnings" and "$3000" under the left start of the line. There is NO card and NO box around the graph.
+
+Background: deep dark purple-navy, almost black (#0B0726), with a very faint fine grid, a soft purple glow behind me on the left and a soft neon-green glow behind the graph on the right. Clean, dark, expensive. No room, no furniture, no lights.
+
+Left 40%: me, large, from the chest up, cut off by the bottom edge of the frame, looking straight into the camera. My face is lit by soft purple light (like in Image 1) and, on the side facing the graph, by a thin neon-green rim light from the graph. I look naturally part of the scene — no cut-out edge, no white outline, no sticker look.
+
+Right 60%: the graph from Image 3, big and glowing on the dark background, the line thick and neon lime green (#8CFF5A) with a soft glow. Because the background is dark: "$3000" is bold white, "Monthly earnings" is light grey, "+95%" stays green on a light-green badge. Spell them exactly: "Monthly earnings", "$3000", "+95%".
+
+Top-left corner: ONE After Effects icon from Image 2, medium size, with a soft purple glow, not touching my head.
+
+Headline at the top right, above the graph, heavy bold sans-serif, all caps, two lines: line 1 white "IMAN STYLE", line 2 neon green "IN 5 MIN". Perfectly spelled.
+
+Only these elements: me, the graph, the icon, the headline. No card, no motion-blur copies, no second icon, no extra text, no watermark.
+```

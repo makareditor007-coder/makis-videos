@@ -21,7 +21,7 @@ Me: perfectly centered, from the chest up, large, cut off by the bottom edge, lo
 
 Background: deep navy-blue studio backdrop (#0B1B3F fading to near-black at the edges), soft spotlight glow behind my head, gentle vignette. Clean, no room, no objects.
 
-Behind my head: one huge line of bold white sans-serif text "IMAN STYLE" spanning the upper part of the frame; my head overlaps and hides a small part of the middle letters, but the words stay easy to read. Under it, on the right, a handwritten script accent in bright green: "in 5 min".
+Behind my head: one huge line of bold white sans-serif text "IMAN GADZHI" spanning the upper part of the frame; my head overlaps and hides only a small part of the middle letters, every letter of "IMAN GADZHI" stays easy to read. Under it, on the right, a handwritten script accent in bright green: "style in 5 min".
 
 Right side, at chest height, floating and slightly tilted toward me: a small white rounded card with a soft shadow and a subtle green glow, containing the graph from Image 3 exactly: the neon green line with one bump, a dip and a rise to a bright green dot, the green gradient fill, the light-green badge "+95%" above the dot, and under the line start the grey text "Monthly earnings" and bold black "$3000".
 
@@ -38,7 +38,7 @@ The frame is split vertically into two halves.
 LEFT HALF: dull, grey, slightly blurry and desaturated: a cheap, ugly, flat default chart (sharp grey box, jagged grey line, plain text). A thick red diagonal strike line crosses the whole left half from top-left to bottom-right.
 RIGHT HALF: deep navy-blue background with a soft glow: me from the chest up, large, looking straight into the lens, calm and confident. Next to my shoulder, floating: a white rounded card with soft shadow containing the graph from Image 3 exactly (neon green line, gradient fill, "+95%" badge, "Monthly earnings", "$3000"). A small After Effects icon (Image 2) floats above the card with a soft purple glow.
 
-Text: across the top of both halves, huge bold white sans-serif: "CHEAP" over the left half and "EXPENSIVE" over the right half, with "EXPENSIVE" in bright green.
+Text: across the top of both halves, huge bold white sans-serif: "CHEAP" over the left half and "IMAN GADZHI" over the right half, with "IMAN GADZHI" in bright green.
 
 Only these elements. No extra icons, no extra text, no watermark.
 ```
@@ -53,7 +53,7 @@ Me: centered, from the chest up, large, cut by the bottom edge, looking straight
 
 Background: light grey studio backdrop. Behind me on both sides, slightly blurred: large floating screenshots of the After Effects interface (timeline with keyframes, composition panel), tilted at an angle, with soft shadows.
 
-Behind my head, huge dark navy bold text across the top: "EDIT LIKE IMAN" — my head hides a small part of it, the words stay readable.
+Behind my head, huge dark navy bold text across the top, two lines: small line "EDIT LIKE", big line "IMAN GADZHI" — my head hides only a small part of it, every letter stays readable.
 
 Left, at chest height: the After Effects icon from Image 2 as a glossy 3D app tile with a soft shadow. Right, at chest height: a white rounded card with a soft shadow containing the graph from Image 3 exactly (neon green line, gradient fill, "+95%" badge, "Monthly earnings", "$3000").
 

@@ -58,7 +58,7 @@ Backup options:
 **Before generating:**
 1. **Image 1:** a sharp, front-lit, unfiltered close-up photo of your face. Ideally shoot it with the expression you want (surprised/confident). The model keeps expressions better than it invents them.
 2. **Image 2:** the official Adobe After Effects app icon (PNG).
-3. *(Optional) Image 3:* a screenshot of your finished chart widget from the video. It makes the "hero object" match your real animation exactly.
+3. **Image 3:** a screenshot of your finished chart widget from the video (the fully animated last state, at $3,000). It makes the card match your real animation exactly. **Important:** the words in quotes in the prompt ("Monthly earnings", "$3,000", "+95%") must match what is in your screenshot, letter for letter. If they differ, the model mixes both versions.
 4. Generate 3–4 outputs per prompt. Pick the best one, then fix small things with short follow-up edits instead of regenerating.
 5. Check spelling in every headline before exporting.
 
@@ -71,11 +71,11 @@ Backup options:
 ```
 16:9 YouTube thumbnail, 1280x720, ultra-sharp, premium commercial design, high click-through style.
 
-References: Image 1 is my face — use it ONLY for identity. Keep my facial features exactly the same as Image 1: same eyes, nose, lips, jawline, skin tone, hair texture and hairstyle. No beautification, no age change. Image 2 is the official Adobe After Effects app icon — reproduce it exactly, do not redesign it. Image 3 (if provided) is the chart widget — match its layout.
+References: Image 1 is my face — use it ONLY for identity. Keep my facial features exactly the same as Image 1: same eyes, nose, lips, jawline, skin tone, hair texture and hairstyle. No beautification, no age change. Image 2 is the official Adobe After Effects app icon — reproduce it exactly, do not redesign it. Image 3 is a screenshot of my own animated graph from the video — use it as the exact design reference for the white card: same layout, same fonts, same colors, same green line shape and gradient fill. Recreate it faithfully, do not invent a different chart.
 
 Composition: Left 40% of the frame — an extreme close-up of me from chest up, head slightly turned toward the right side of the frame, eyes looking directly into the camera, eyebrows raised, mouth slightly open in an impressed "wow" expression. Shallow depth of field, soft cinematic key light from the front-right, a crisp white rim light separating my hair and shoulders from the background.
 
-Right 60% of the frame: the hero object — a floating, slightly 3D-tilted white rounded-corner card with soft drop shadow, like a premium fintech app widget. Inside the card: small thin grey text "Monthly earnings", below it a big bold black number "$3,000", a small pill badge in the top-right corner with soft mint-green background and green text "+95%", and a bright emerald-green line chart rising sharply from bottom-left to top-right with smooth curved segments, a glowing green dot at the tip of the line, and a soft green-to-transparent gradient fill under the line. Faint motion-blur streaks behind the card suggest it is animating.
+Right 60% of the frame: the hero object — the white card from Image 3, as a floating, slightly 3D-tilted white rounded-corner card with soft drop shadow, like a premium fintech app widget. Inside the card: small thin grey text "Monthly earnings", below it a big bold black number "$3,000", a small pill badge in the top-right corner with soft mint-green background and green text "+95%", and a bright emerald-green line chart rising sharply from bottom-left to top-right with smooth curved segments, a glowing green dot at the tip of the line, and a soft green-to-transparent gradient fill under the line. Faint motion-blur streaks behind the card suggest it is animating.
 
 Background: clean light pastel sky-blue (#CFE3F7) with a very subtle thin white grid pattern and a soft radial white glow behind the card. Minimal, luxurious, lots of breathing room.
 
@@ -93,11 +93,11 @@ Color palette: pastel blue, pure white, emerald green #19C37D, deep navy, a touc
 ```
 16:9 YouTube thumbnail, 1280x720, hyper-detailed, bold, high-contrast, designed to be readable at small mobile size.
 
-References: Image 1 is my face — use ONLY for identity, keep my facial features exactly the same as Image 1 (eyes, nose, lips, jawline, skin tone, hair). Image 2 is the official Adobe After Effects icon — reproduce it exactly.
+References: Image 1 is my face — use ONLY for identity, keep my facial features exactly the same as Image 1 (eyes, nose, lips, jawline, skin tone, hair). Image 2 is the official Adobe After Effects icon — reproduce it exactly. Image 3 is a screenshot of my own animated graph from the video — use it as the exact design reference for the white card: same layout, same fonts, same colors, same green line shape and gradient fill. Recreate it faithfully, do not invent a different chart.
 
 Composition: The frame is split diagonally into two halves by a thin glowing white line.
 LEFT HALF ("before"): desaturated, flat grey background; a boring, ugly, cheap-looking default chart — a sharp-cornered grey box, a jagged thin grey line, default Arial text, slightly blurry. A small red label in the corner: "BEFORE". It should look clearly amateur.
-RIGHT HALF ("after"): deep dark navy background (#070B1A) with a subtle glowing grid; a stunning premium fintech widget — white rounded-corner card with soft shadow, thin grey text "Monthly earnings", bold "$3,000", a mint-green "+95%" pill badge, and a thick glowing emerald-green line chart rising upward with a bright dot at its tip and a green gradient glow beneath it. Small green light particles and subtle motion blur. A small green label: "AFTER".
+RIGHT HALF ("after"): deep dark navy background (#070B1A) with a subtle glowing grid; a stunning premium fintech widget — the white card from Image 3, a white rounded-corner card with soft shadow, thin grey text "Monthly earnings", bold "$3,000", a mint-green "+95%" pill badge, and a thick glowing emerald-green line chart rising upward with a bright dot at its tip and a green gradient glow beneath it. Small green light particles and subtle motion blur. A small green label: "AFTER".
 
 Me: In the center-front, overlapping the split line, a close-up of me from chest up, facing camera, confident smirk, one eyebrow raised, pointing with my index finger toward the right "after" side. Strong rim light: cool grey on the left edge of my face, emerald green on the right edge. Sharp focus on my eyes.
 
@@ -115,11 +115,11 @@ Color palette: dead grey vs. deep navy + electric emerald green #22E07A + white 
 ```
 16:9 YouTube thumbnail, 1280x720, cinematic, luxury, moody, premium entrepreneur aesthetic, ultra-sharp 4K detail.
 
-References: Image 1 is my face — use ONLY for identity; keep my facial features exactly the same as Image 1, same skin tone, hair and proportions, no beautification. Image 2 is the official Adobe After Effects app icon — reproduce it exactly.
+References: Image 1 is my face — use ONLY for identity; keep my facial features exactly the same as Image 1, same skin tone, hair and proportions, no beautification. Image 2 is the official Adobe After Effects app icon — reproduce it exactly. Image 3 is a screenshot of my own animated graph from the video — use it as the exact design reference for the white card: same layout, same fonts, same colors, same green line shape and gradient fill. Recreate it faithfully, do not invent a different chart.
 
 Composition: Right 45% of the frame — a tight close-up of my face and shoulders, three-quarter angle, looking straight into the lens with an intense, serious, "I know something you don't" expression. Low-key cinematic lighting: dramatic soft key light from the left, deep shadows on the right side of my face, a thin emerald-green rim light on my jaw and hair. Wearing a plain black t-shirt. Subtle film grain.
 
-Left 55%: a large, glossy, 3D-rendered After Effects icon from Image 2, slightly tilted, floating in space with a strong purple-blue glow and a reflection on a glossy black floor. Behind it, a huge glowing emerald-green growth line chart sweeping upward from bottom-left to top-right across the background, with a bright glowing dot at the top and a soft green gradient fill fading into darkness. A small floating white rounded card near the line reading "$3,000 / month".
+Left 55%: a large, glossy, 3D-rendered After Effects icon from Image 2, slightly tilted, floating in space with a strong purple-blue glow and a reflection on a glossy black floor. Behind it, a huge glowing emerald-green growth line chart sweeping upward from bottom-left to top-right across the background, with a bright glowing dot at the top and a soft green gradient fill fading into darkness. A small floating white rounded card near the line, styled exactly like the card in Image 3, reading "$3,000 / month".
 
 Background: near-black navy (#05070F) with a faint fine grid and soft volumetric haze; a warm subtle light leak in the top corner. Luxury, high-end, expensive, like a premium business documentary.
 
